@@ -11,3 +11,9 @@ qdtoday/qd
 amtoaer/bili-sync
 homeassistant/home-assistant:2024.6.2
 langgenius/dify-web
+langgenius/dify-api
+postgres:15-alpine
+redis:6-alpine
+semitechnologies/weaviate
+langgenius/dify-sandbox
+ubuntu/squid
