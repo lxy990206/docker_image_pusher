@@ -17,3 +17,4 @@ redis:6-alpine
 semitechnologies/weaviate
 langgenius/dify-sandbox
 ubuntu/squid
+superng6/qbittorrent
