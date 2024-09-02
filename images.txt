@@ -20,7 +20,7 @@ ubuntu/squid
 superng6/qbittorrent
 certbot/certbot
 langgenius/qdrant
-pgvector/pgvector
+pgvector/pgvector:pg16
 tensorchord/pgvecto-rs
 ghcr.io/chroma-core/chroma
 container-registry.oracle.com/database/free
