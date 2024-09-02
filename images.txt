@@ -25,10 +25,10 @@ tensorchord/pgvecto-rs
 ghcr.io/chroma-core/chroma
 container-registry.oracle.com/database/free
 quay.io/coreos/etcd
+minio/minio
+milvusdb/milvus
 opensearchproject/opensearch
 opensearchproject/opensearch-dashboards
 myscale/myscaledb
 docker.elastic.co/elasticsearch/elasticsearch
-docker.elastic.co/kibana/kibana
 downloads.unstructured.io/unstructured-io/unstructured-api
-milvusdb/milvus
