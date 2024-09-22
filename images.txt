@@ -9,7 +9,7 @@ jellyfin/jellyfin
 xiaoyaliu/alist
 qdtoday/qd
 amtoaer/bili-sync
-homeassistant/home-assistant:2024.6.2
+homeassistant/home-assistant
 langgenius/dify-web:0.8.3
 langgenius/dify-api:0.8.3
 postgres:15-alpine
