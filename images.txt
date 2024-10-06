@@ -10,8 +10,8 @@ xiaoyaliu/alist
 qdtoday/qd
 amtoaer/bili-sync
 homeassistant/home-assistant
-langgenius/dify-web:0.8.3
-langgenius/dify-api:0.8.3
+langgenius/dify-web:0.9.1
+langgenius/dify-api:0.9.1
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
@@ -30,9 +30,9 @@ milvusdb/milvus:v2.3.1
 opensearchproject/opensearch
 opensearchproject/opensearch-dashboards
 myscale/myscaledb:1.6.4
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+docker.elastic.co/elasticsearch/elasticsearch:8.15.1
 downloads.unstructured.io/unstructured-io/unstructured-api
-docker.elastic.co/kibana/kibana:8.14.3
+docker.elastic.co/kibana/kibana:8.15.1
 hanxi/xiaomusic
 idootop/mi-gpt
 lmk123/migpt-server
