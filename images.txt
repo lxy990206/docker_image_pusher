@@ -36,3 +36,4 @@ docker.elastic.co/kibana/kibana:8.15.1
 hanxi/xiaomusic
 idootop/mi-gpt
 lmk123/migpt-server
+
