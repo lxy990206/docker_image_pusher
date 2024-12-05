@@ -37,3 +37,4 @@ hanxi/xiaomusic
 idootop/mi-gpt
 lmk123/migpt-server
 quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
+mariadb:11
