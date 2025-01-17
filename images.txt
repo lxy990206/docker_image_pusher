@@ -41,3 +41,4 @@ quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 mariadb:11
 pingcap/tidb:v8.4.0
 cr2.fit2cloud.com/1panel/maxkb
+
