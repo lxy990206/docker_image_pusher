@@ -45,5 +45,5 @@ docker.io/redis:6.2-alpine@sha256:148bb5411c184abd288d9aaed139c98123eeb8824c5d3f
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 langgenius/dify-plugin-daemon:0.0.6-local
 opengauss/opengauss:7.0.0-RC1
-ghcr.io/immich-app/immich-server
-ghcr.io/immich-app/immich-machine-learning
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
