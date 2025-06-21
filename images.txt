@@ -7,8 +7,6 @@ xhofe/alist:latest
 photoprism/photoprism
 jellyfin/jellyfin
 xiaoyaliu/alist
-qdtoday/qd
-amtoaer/bili-sync
 ghcr.io/home-assistant/home-assistant:stable
 langgenius/dify-web:1.4.1
 langgenius/dify-api:1.4.1
@@ -39,13 +37,7 @@ lmk123/migpt-server
 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
 mariadb:11
 pingcap/tidb:v8.4.0
-registry.fit2cloud.com/maxkb/maxkb
-letta/letta
 docker.io/redis:6.2-alpine@sha256:148bb5411c184abd288d9aaed139c98123eeb8824c5d3fce03cf721db58066d8
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
 langgenius/dify-plugin-daemon:0.1.1-local
 opengauss/opengauss:7.0.0-RC1
-ghcr.io/immich-app/immich-server:release
-ghcr.io/immich-app/immich-machine-learning:release
-lanol/filecodebox:beta
-rustdesk/rustdesk-server
