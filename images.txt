@@ -48,3 +48,4 @@ opengauss/opengauss:7.0.0-RC1
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 lanol/filecodebox:beta
+rustdesk/rustdesk-server
