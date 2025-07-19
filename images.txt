@@ -7,8 +7,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
 ghcr.io/home-assistant/home-assistant:stable
-langgenius/dify-web:1.5.1
-langgenius/dify-api:1.5.1
+langgenius/dify-web:1.6.0
+langgenius/dify-api:1.6.0
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.19.0
