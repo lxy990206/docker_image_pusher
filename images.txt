@@ -7,8 +7,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
 ghcr.io/home-assistant/home-assistant:stable
-langgenius/dify-web:1.11.1
-langgenius/dify-api:1.11.1
+langgenius/dify-web:1.11.3
+langgenius/dify-api:1.11.3
 postgres:15-alpine
 redis:6-alpine
 semitechnologies/weaviate:1.27.0
@@ -17,7 +17,8 @@ ubuntu/squid
 superng6/qbittorrent
 certbot/certbot
 langgenius/qdrant:v1.8.3
-pgvector/pgvector:pg16
+pgvector/pgvector
+:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
 container-registry.oracle.com/database/free
@@ -35,12 +36,12 @@ oceanbase/oceanbase-ce:4.3.5-lts
 pingcap/tidb:v8.4.0
 docker.io/redis:6.2-alpine@sha256:148bb5411c184abd288d9aaed139c98123eeb8824c5d3fce03cf721db58066d8
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
-langgenius/dify-plugin-daemon:0.5.1-local
+langgenius/dify-plugin-daemon:0.5.2-local
 opengauss/opengauss:7.0.0-RC1
 matrixorigin/matrixone:2.1.1
 xprobe/xinference:latest
-busybox:latest
+busybox
 mysql:8.0
 oceanbase/seekdb
 containers.intersystems.com/intersystems/iris-community:2025.3
-
+myscale/myscaledb:1.6.4
