@@ -17,7 +17,6 @@ ubuntu/squid
 superng6/qbittorrent
 certbot/certbot
 langgenius/qdrant:v1.8.3
-pgvector/pgvector
 pgvector/pgvector:pg16
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
