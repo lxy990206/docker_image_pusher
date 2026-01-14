@@ -43,5 +43,5 @@ busybox
 mysql:8.0
 oceanbase/seekdb
 containers.intersystems.com/intersystems/iris-community:2025.3
-myscale/myscaledb:1.6.4
+
 
